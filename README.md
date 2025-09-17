@@ -1,6 +1,6 @@
 # 👋 Hi , I am Bhoomika !
 Software Engineer | Tech Enthusiast | Innovator<br>
-🔹I am Studying Computer Sceince and Design in Banglore<br>
+🔹I am Studying Computer Sceince and Design in Bangalore<br>
 🔹Passionate about AI, Web Development,Python Developmet and 3D Programming<br>
 🔹Always experimenting with cutting-edge tech & new ideas<br>
 🔹Fun fact I won first place in a 24-hour hackathon for my AI Therapist project!
