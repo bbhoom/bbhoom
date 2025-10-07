@@ -1,4 +1,6 @@
 # 👋 Hi , I am Bhoomika !
+
+Learn more about me : https://bbhoom.github.io/Bhoomika_K_S/
 Software Engineer | Tech Enthusiast | Innovator<br>
 🔹I am Studying Computer Sceince and Design in Bangalore<br>
 🔹Passionate about AI, Web Development,Python Developmet and 3D Programming<br>
